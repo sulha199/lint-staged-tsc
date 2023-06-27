@@ -22,19 +22,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kontenty/lint-staged-tsc.git"
+    "url": "git+https://github.com/sulha199/lint-staged-tsc.git"
   },
   "keywords": [
     "node",
     "typescript",
     "lint-staged"
   ],
-  "author": "Konrad Gorski",
+  "authors": ["Konrad Gorski", "Shulha Yahya"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Kontenty/lint-staged-tsc/issues"
+    "url": "https://github.com/sulha199/lint-staged-tsc/issues"
   },
-  "homepage": "https://github.com/Kontenty/lint-staged-tsc#readme",
+  "homepage": "https://github.com/sulha199/lint-staged-tsc#readme",
   "devDependencies": {
     "@commitlint/cli": "^16.2.4",
     "@commitlint/config-conventional": "^16.2.4",
